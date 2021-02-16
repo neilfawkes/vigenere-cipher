@@ -1,6 +1,6 @@
 # Vigenère cipher
 
-This script is made to encrypt and decrypt messages using Vigenère cipher (a combination of Caesar ciphers based on a keyword, for more info check https://en.wikipedia.org/wiki/Vigenère_cipher).
+This script is made to encrypt and decrypt messages using Vigenère cipher (a combination of several Caesar ciphers based on a keyword, for more info check https://en.wikipedia.org/wiki/Vigenère_cipher).
 
 You can encrypt/decrypt messages using roman and cyrillic letters and various symbols.
 All letters in tabula recta are mixed even though it's not making the cipher stronger as far as I'm concerned (but it looks more messy).
